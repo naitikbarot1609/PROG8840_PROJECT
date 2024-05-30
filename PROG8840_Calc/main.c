@@ -12,6 +12,7 @@ void main() {
 	printWelcomeMenu();
 
 	printOptions();
+               
 
 	int inputNum;
 
@@ -69,5 +70,9 @@ void multiply() {
 	num2 = 42;
 
 	int result = num2 - num1;
+
+
+
+	
 }
 
